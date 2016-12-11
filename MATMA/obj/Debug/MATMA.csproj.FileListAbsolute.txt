@@ -1,9 +1,9 @@
-c:\users\franek\documents\visual studio 2015\Projects\MATMA\MATMA\bin\Debug\MATMA.exe.config
-C:\Users\Franek\documents\visual studio 2015\Projects\MATMA\MATMA\bin\Debug\MATMA.exe
-C:\Users\Franek\documents\visual studio 2015\Projects\MATMA\MATMA\bin\Debug\MATMA.pdb
 C:\Users\Franek\documents\visual studio 2015\Projects\MATMA\MATMA\obj\Debug\MATMA.csprojResolveAssemblyReference.cache
 C:\Users\Franek\documents\visual studio 2015\Projects\MATMA\MATMA\obj\Debug\MATMA.Form1.resources
 C:\Users\Franek\documents\visual studio 2015\Projects\MATMA\MATMA\obj\Debug\MATMA.Properties.Resources.resources
 C:\Users\Franek\documents\visual studio 2015\Projects\MATMA\MATMA\obj\Debug\MATMA.csproj.GenerateResource.Cache
-C:\Users\Franek\documents\visual studio 2015\Projects\MATMA\MATMA\obj\Debug\MATMA.exe
-C:\Users\Franek\documents\visual studio 2015\Projects\MATMA\MATMA\obj\Debug\MATMA.pdb
+C:\Users\Franek\documents\visual studio 2015\Projects\MATMA\MATMA\bin\Debug\Losowanie Grup.exe.config
+C:\Users\Franek\documents\visual studio 2015\Projects\MATMA\MATMA\bin\Debug\Losowanie Grup.exe
+C:\Users\Franek\documents\visual studio 2015\Projects\MATMA\MATMA\bin\Debug\Losowanie Grup.pdb
+C:\Users\Franek\documents\visual studio 2015\Projects\MATMA\MATMA\obj\Debug\Losowanie Grup.exe
+C:\Users\Franek\documents\visual studio 2015\Projects\MATMA\MATMA\obj\Debug\Losowanie Grup.pdb

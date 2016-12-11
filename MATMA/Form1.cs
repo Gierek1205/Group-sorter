@@ -209,6 +209,9 @@ namespace MATMA
 
         }
 
-        
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/Gierek1205/Group-sorter");
+        }
     }
 }
